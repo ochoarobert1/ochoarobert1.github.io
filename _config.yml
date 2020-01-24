@@ -1,1 +1,26 @@
+
+# Site wide configuration
+
+title: Robert Ochoa - WordPress / Woocommerce Expert
+locale: en_US
 theme: jekyll-theme-slate
+logo: (images/logo.png)
+
+# Enter the following platform usernames if you would like for them to appear on your site.
+owner:
+  name: Robert Ochoa
+  avatar: model.png
+  bio: "Robert Ochoa - WordPress / Woocommerce Expert"
+  email: contacto@robertochoa.com.ve
+  # Do not include the @ symbol in your Twitter username
+  twitter: choarobert1
+  linkedin: ochoarobert1
+  github: ochoarobert1
+  orcid: # ID Number (ex. 0000-0000-0000-0000)
+  researchgate: #username
+  mendeley: #username
+  google:
+    plus: #username
+    analytics:
+    verify:
+    scholar: #id
