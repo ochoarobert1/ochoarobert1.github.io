@@ -4,7 +4,7 @@
 title: Robert Ochoa
 locale: en_US
 theme: jekyll-theme-slate
-logo: logo.png
+logo: (images/logo.png)
 
 plugins:
   - jekyll-relative-links
